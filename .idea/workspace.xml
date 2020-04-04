@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88faa951-ad9b-4131-acdc-e46d2d1fbaed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile.windows.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_update/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_update/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_update/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_update/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-getting-started" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZvfuDT9lJRseiQDutTH363YqXE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/corona_update1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88faa951-ad9b-4131-acdc-e46d2d1fbaed" name="Default Changelist" comment="" />
+      <created>1585724708444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585724708444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
